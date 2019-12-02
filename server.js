@@ -15,6 +15,6 @@ app.use(express.static("app/public"));
 require("./app/routing/apiRoutes")(app);
 require("./app/routing/htmlRoutes")(app);
 
-var port = process.env.PORT || 5000;
+var port = process.env.PORT || 5500;
 
 app.listen(port, () => console.log("Listening on port %s", port));
