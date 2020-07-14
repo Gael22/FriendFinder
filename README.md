@@ -1,3 +1,3 @@
 # # FriendFinder
 
-Open the app [https://dudefinder.herokuapp.com/survey.html](https://dudefinder.herokuapp.com/survey.html)
+Open the app [https://dudefinder.herokuapp.com/](https://dudefinder.herokuapp.com/)
