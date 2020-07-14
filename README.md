@@ -3,7 +3,7 @@
 
 This match making application will help you find the long lost friend you didn't know you were missing. It has ten carefully selected statements, and for each one, you select on a scale of 1-5 how much you agree with it. It will then display the best match for you based on your responses. The app uses Express.js, Node.js, and RESTful API routes.
 
-TO open the app [https://dudefinder.herokuapp.com/](https://dudefinder.herokuapp.com/)
+To open the app [https://dudefinder.herokuapp.com/](https://dudefinder.herokuapp.com/)
 
 
 Installing
@@ -12,9 +12,9 @@ To run the app locally, you will first need to git clone the repository to your 
 HTTPS:
 
 $ git clone https://github.com/Gael22/FriendFinder.git
-SSH:
 
-$ git clone git@github.com:jckmrrssy/FriendFinder.git
+
+$ git clone git@github.com:Gael22/FriendFinder.git
 Once cloned, cd into the repository and install the necessary dependencies by running:
 
 $ npm install
